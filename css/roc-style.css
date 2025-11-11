@@ -1,0 +1,139 @@
+body {
+    background-color: rgb(255, 255, 255);
+
+
+
+
+}
+
+.tekst-large {
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+    font-family: montserrat;
+}
+
+.tekst-largest {
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    font-family: montserrat;
+}
+
+.tekst-small {
+    display: flex;
+
+    font-size: small;
+    font-family: montserrat;
+}
+
+.light-blue {
+    display: flex;
+    color: #6e6eb4;
+}
+
+.white {
+    display: flex;
+    color: rgb(255, 255, 255);
+}
+
+.pink {
+    display: flex;
+    color: rgb(235, 159, 225);
+}
+
+.dark-purple {
+    display: flex;
+    color: #402e56;
+}
+
+.red {
+    display: flex;
+    color: rgb(214, 87, 87);
+}
+
+.cyan {
+    display: flex;
+    color: rgb(69, 207, 205);
+}
+
+.deep-blue {
+    display: flex;
+    color: #ebf6fb;
+}
+
+.yellow {
+    display: flex;
+    color: rgb(226, 211, 46);
+}
+
+.gray-background {
+    display: flex;
+    background-color: rgb(35, 35, 33);
+    font-size: small;
+    font-family: montserrat;
+}
+
+.pink-background {
+    display: flex;
+    background-color: rgb(232, 57, 202);
+    font-size: small;
+    font-family: montserrat;
+}
+
+.empty-space {
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    height: 400px;
+    width: 50px;
+}
+
+.button-wide {
+    width: 500px;
+    height: 100px;
+
+}
+
+.button-small {
+    background-color: rgb(40, 40, 40);
+    width: 100px;
+    height: 50px;
+
+}
+
+.button-square {
+    background-color: rgb(40, 40, 40);
+    width: 100px;
+    height: 100px;
+
+}
+
+.container-center {
+    display: flex;
+    justify-content: center;
+
+}
+
+.container-end {
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.container-space-around {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.container-align-items-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-space-between {
+    display: flex;
+    justify-content: space-between;
+
+}
