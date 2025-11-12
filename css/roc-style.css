@@ -148,7 +148,7 @@ body {
     margin-top: 50px;
 }
 
-.flex-container1 {
+.flex-container-box {
     background-color: #EBF6FB;
     display: flex;
     flex-direction: column;
@@ -163,7 +163,7 @@ body {
     height: 500px;
 }
 
-.flex-container2 {
+.flex-container-text {
 
     display: flex;
     flex-direction: column;
