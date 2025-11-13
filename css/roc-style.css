@@ -275,7 +275,8 @@ footer {
 	justify-content: space-around;
 	align-items: center;
 	align-content: stretch;
-    width: 33%;
+        width: 100%;
+    border-radius: 8px; 
 }
 .flex-container-box-social-links{
     display: flex;
@@ -284,4 +285,5 @@ footer {
 	justify-content: space-around;
 	align-items: baseline;
 	align-content: stretch;
+
 }
