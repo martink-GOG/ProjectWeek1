@@ -18,6 +18,7 @@ header>h2{
     justify-content: center;
     font-size: larger;
     font-family: "Montserrat", sans-serif;
+    
 
 }
 .tekst-large-white{
@@ -34,7 +35,7 @@ header>h2{
     justify-content: center;
     font-size: xx-large;
     font-family: "Montserrat", sans-serif;
-    
+    color: #402e56;
 }
 
 .tekst-small {
