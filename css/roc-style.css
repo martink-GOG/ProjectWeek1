@@ -32,6 +32,14 @@ header>h2 {
     font-family: "Montserrat", sans-serif;
     color: white
 }
+.tekst-large-white-link {
+    text-decoration:underline;
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+    font-family: "Montserrat", sans-serif;
+    color: white
+}
 
 .tekst-large-purple {
     text-decoration:underline;
