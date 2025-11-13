@@ -34,7 +34,7 @@ header>h2 {
 }
 
 .tekst-large-purple {
-    text-decoration: none;
+    text-decoration:underline;
     display: flex;
     justify-content: center;
     font-size: larger;
@@ -152,12 +152,14 @@ header>h2 {
 
 .container-space-around {
     display: flex;
-    justify-content: space-around;
-    width: 1100px;
-    margin-left: 15%;
-    width: 80%;
+    justify-content: space-between;
+    align-items: center;
+    width: 85%;
 }
-
+.image-size-roc {
+    width: 90%;
+    height: 100px;
+}
 .container-align-items-center {
     display: flex;
     align-items: center;
