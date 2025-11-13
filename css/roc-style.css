@@ -256,16 +256,16 @@ footer {
 .technovium {
     display: flex;
     justify-content: center;
+    margin-top: 10px;
     margin-bottom: 20px;
 }
 
 .technovium>img {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    justify-content: center;
-    align-items: center;
-    align-content: stretch;
-    width: 500px;
-    height: 300px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	align-items: center;
+	align-content: stretch;
+    width: 33%;
 }
