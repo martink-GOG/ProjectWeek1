@@ -10,21 +10,21 @@ body {
     display: flex;
     justify-content: center;
     font-size: larger;
-    font-family: montserrat;
+    font-family: "Montserrat", sans-serif;
 }
 
 .tekst-largest {
     display: flex;
     justify-content: center;
     font-size: xx-large;
-    font-family: montserrat;
+    font-family: "Montserrat", sans-serif;
 }
 
 .tekst-small {
     display: flex;
 
     font-size: small;
-    font-family: montserrat;
+    font-family: "Montserrat", sans-serif;
 }
 
 .light-blue {
