@@ -277,3 +277,11 @@ footer {
 	align-content: stretch;
     width: 33%;
 }
+.flex-container-box-social-links{
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	align-items: baseline;
+	align-content: stretch;
+}
