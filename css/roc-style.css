@@ -1,15 +1,17 @@
 body {
     background-color: rgb(255, 255, 255);
- margin: 0;
+    margin: 0;
 
 
 
 }
-header{
+
+header {
     background-color: #6E6EB4;
     height: 200px;
 }
-header>h2{
+
+header>h2 {
     margin-top: 40px;
 }
 
@@ -18,10 +20,11 @@ header>h2{
     justify-content: center;
     font-size: larger;
     font-family: "Montserrat", sans-serif;
-    
+
 
 }
-.tekst-large-white{
+
+.tekst-large-white {
     text-decoration: none;
     display: flex;
     justify-content: center;
@@ -29,7 +32,8 @@ header>h2{
     font-family: "Montserrat", sans-serif;
     color: white
 }
-.tekst-large-purple{
+
+.tekst-large-purple {
     text-decoration: none;
     display: flex;
     justify-content: center;
@@ -150,7 +154,9 @@ header>h2{
     display: flex;
     justify-content: space-around;
     width: 1100px;
-    margin-left: 290px;
+    background-color: antiquewhite;
+    margin-left: 10%;
+    width: 80%;
 }
 
 .container-align-items-center {
@@ -215,48 +221,50 @@ footer {
 }
 
 .flex-container-footer {
-	display: flex;
-	flex-direction: row;
-	flex-wrap: nowrap;
-	justify-content: space-around;
-	align-items: center;
-	align-content: stretch;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+    align-content: stretch;
     height: 90px;
-    
+
 }
-.image-size{
+
+.image-size {
     width: 300px;
     height: 200px;
 }
-.flex-container-box-logo{
-margin-top: 15px;
-	display: flex;
-	flex-direction: row;
-	flex-wrap: nowrap;
-	justify-content: flex-start;
-	align-items: center;
-	align-content: stretch;
+
+.flex-container-box-logo {
+    margin-top: 15px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    align-content: stretch;
 }
 
-.image-size-logo{
+.image-size-logo {
     width: 160px;
     height: 180px;
-    
+
 }
 
-.technovium{
+.technovium {
     display: flex;
     justify-content: center;
     margin-bottom: 20px;
 }
 
-.technovium>img{
-	display: flex;
-	flex-direction: row;
-	flex-wrap: nowrap;
-	justify-content: center;
-	align-items: center;
-	align-content: stretch;
+.technovium>img {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    align-content: stretch;
     width: 500px;
     height: 300px;
 }
