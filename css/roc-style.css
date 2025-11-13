@@ -218,3 +218,18 @@ footer {
     width: 300px;
     height: 200px;
 }
+.flex-container-box-logo{
+margin-top: 15px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: center;
+	align-content: stretch;
+}
+
+.image-size-logo{
+    width: 160px;
+    height: 180px;
+    
+}
