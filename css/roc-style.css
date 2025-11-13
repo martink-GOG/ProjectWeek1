@@ -149,7 +149,8 @@ header>h2{
 .container-space-around {
     display: flex;
     justify-content: space-around;
-
+    width: 1100px;
+    margin-left: 290px;
 }
 
 .container-align-items-center {
