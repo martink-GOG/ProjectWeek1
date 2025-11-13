@@ -88,14 +88,14 @@ header>h2{
     display: flex;
     background-color: rgb(35, 35, 33);
     font-size: small;
-    font-family: montserrat;
+    font-family: "Montserrat", sans-serif;
 }
 
 .pink-background {
     display: flex;
     background-color: rgb(232, 57, 202);
     font-size: small;
-    font-family: montserrat;
+    font-family: "Montserrat", sans-serif;
 }
 
 .empty-space {
