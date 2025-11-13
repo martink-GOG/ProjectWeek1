@@ -32,8 +32,9 @@ header>h2 {
     font-family: "Montserrat", sans-serif;
     color: white
 }
+
 .tekst-large-white-link {
-    text-decoration:underline;
+    text-decoration: underline;
     display: flex;
     justify-content: center;
     font-size: larger;
@@ -42,7 +43,7 @@ header>h2 {
 }
 
 .tekst-large-purple {
-    text-decoration:underline;
+    text-decoration: underline;
     display: flex;
     justify-content: center;
     font-size: larger;
@@ -164,10 +165,12 @@ header>h2 {
     align-items: center;
     width: 85%;
 }
+
 .image-size-roc {
     width: 90%;
     height: 100px;
 }
+
 .container-align-items-center {
     display: flex;
     align-items: center;
@@ -269,21 +272,21 @@ footer {
 }
 
 .technovium>img {
-	display: flex;
-	flex-direction: row;
-	flex-wrap: nowrap;
-	justify-content: space-around;
-	align-items: center;
-	align-content: stretch;
-        width: 100%;
-    border-radius: 8px; 
-}
-.flex-container-box-social-links{
     display: flex;
-	flex-direction: row;
-	flex-wrap: nowrap;
-	justify-content: space-around;
-	align-items: baseline;
-	align-content: stretch;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+    align-content: stretch;
+    width: 100%;
+    border-radius: 8px;
+}
 
+.flex-container-box-social-links {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: baseline;
+    align-content: stretch;
 }
